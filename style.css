@@ -1,0 +1,45 @@
+/* selector{
+    property; value;
+} */
+.boxmodel {
+    display: inline-block;
+    padding: 25px;
+    border: 2px solid gray;
+    margin-left: 500px;
+    margin-top: 250px;
+    height: 2in;
+    width: 4in;
+
+
+}
+h1 {
+    margin-right: 125px;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+div{
+    border: 2px solid gray;
+}
+h1 {
+    text-align: center;
+    text: size adjust 60px;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:200
+
+
+}
+p {
+    text-align: center;
+}
+form {
+    text-align: center;
+}
+h1 {
+    text-
+}
+.para2 {
+    margin-right: 125px;
+}
